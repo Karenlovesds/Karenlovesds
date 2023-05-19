@@ -5,6 +5,15 @@
 
 Here are some ideas to get you started:
 
+Mingyue Zheng | Data scientist & Epidemiologist
+
+🐱 My research profile
+
+💻 I'm currently looking for Data Scientist work!
+
+💬 Ask me about machine learning (^_^)
+
+📫 How to reach me: mz16988@my.bristol.ac.uk or https://www.linkedin.com/in/mingyue-zheng-drcafe/
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
