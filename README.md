@@ -1,5 +1,4 @@
-### Hi there 👋
-Mingyue Zheng | Data scientist & Epidemiologist
+### Mingyue Zheng | Data scientist & Epidemiologist
 
 🐱 [My research profile](https://mingyuezheng.netlify.app/)
 
