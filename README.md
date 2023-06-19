@@ -8,7 +8,7 @@
 
 📫 How to reach me: [mz16988@my.bristol.ac.uk](mz16988@my.bristol.ac.uk) or https://www.linkedin.com/in/mingyue-zheng-drcafe/
 
-⚡ Fun fact: BSc in China, MSc in the UK, PhD in Australia, Reside in New York City, US.
+⚡ Fun fact: BSc in China, MSc in the UK, PhD in Australia, Residing in New York City, US.
 
 
 <!--
