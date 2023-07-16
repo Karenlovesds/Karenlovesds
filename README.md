@@ -10,6 +10,8 @@
 
 ⚡ Fun fact: BSc in China, MSc in the UK, PhD in Australia, Residing in New York City, US.
 
+![image](https://github.com/Karenlovesds/Karenlovesds/assets/74548814/86a97db8-cff1-497a-af38-016e92a97ae9)
+
 
 <!--
 **Karenlovesds/Karenlovesds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
