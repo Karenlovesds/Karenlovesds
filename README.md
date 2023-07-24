@@ -2,11 +2,11 @@
 
 🐱 [My research profile](https://mingyuelovesds.netlify.app/index.html)
 
-💻 I'm currently looking for Data Scientist work!
+💻 I'm currently looking for a Data Scientist position!
 
 💬 Ask me about machine learning and coffee☕ (^_^)
 
-📫 How to reach me: [mz16988@my.bristol.ac.uk](mz16988@my.bristol.ac.uk) or https://www.linkedin.com/in/mingyue-zheng-drcafe/
+📫 How to reach me: [mingyuezhengds@gmail.com](mingyuezhengds@gmail.com) or https://www.linkedin.com/in/mingyue-zheng-drcafe/
 
 ⚡ Fun fact: BSc in China, MSc in the UK, PhD in Australia, Residing in New York City, US.
 
